@@ -5,4 +5,23 @@ Items: {
 		DisplayName: faka
 		Tooltip: Producida en el Penal 13.
 	}
+
+	Fierro: {
+		DisplayName: Fierro
+		Tooltip: ""
+	}
+
+	BloquesitoPetItem: {
+		DisplayName: Bloquesito Pet Item
+		Tooltip: ""
+	}
 }
+
+Buffs: {
+	BloquesitoPetBuff: {
+		DisplayName: Bloquesito Pet Buff
+		Description: Mods.test.Buffs.BloquesitoPetBuff.Description
+	}
+}
+
+Projectiles.BloquesitoPetProjectile.DisplayName: Bloquesito Pet Projectile
