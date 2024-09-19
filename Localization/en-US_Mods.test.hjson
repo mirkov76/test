@@ -25,3 +25,8 @@ Buffs: {
 }
 
 Projectiles.BloquesitoPetProjectile.DisplayName: Bloquesito Pet Projectile
+
+NPCs: {
+	HostileMob.DisplayName: Hostile Mob
+	ZombieBostero.DisplayName: Zombie Bostero
+}
