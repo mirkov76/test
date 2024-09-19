@@ -1,0 +1,3 @@
+displayName = Mod de Prueba
+author = Mirkov
+version = 0.2

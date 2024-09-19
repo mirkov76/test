@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkw0CXtIaY8=",
+  "success": true,
+  "projectFilePath": "/home/terra/.local/share/Terraria/tModLoader/ModSources/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/terra/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

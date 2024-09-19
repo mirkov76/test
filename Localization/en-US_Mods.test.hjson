@@ -1,0 +1,8 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	faka: {
+		DisplayName: faka
+		Tooltip: Producida en el Penal 13.
+	}
+}
