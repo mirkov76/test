@@ -15,6 +15,11 @@ Items: {
 		DisplayName: Bloquesito Pet Item
 		Tooltip: ""
 	}
+
+	ElGordito: {
+		DisplayName: El Gordito
+		Tooltip: ""
+	}
 }
 
 Buffs: {
@@ -24,7 +29,10 @@ Buffs: {
 	}
 }
 
-Projectiles.BloquesitoPetProjectile.DisplayName: Bloquesito Pet Projectile
+Projectiles: {
+	BloquesitoPetProjectile.DisplayName: Bloquesito Pet Projectile
+	ElGorditoProjectile.DisplayName: El Gordito Projectile
+}
 
 NPCs: {
 	HostileMob.DisplayName: Hostile Mob
